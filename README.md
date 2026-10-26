@@ -85,8 +85,8 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 ## Contact
 
-- **Author**: Alwin Kurniawan
-- **Email**: alwin@example.com
+- **Author**: Alwin Dwi Kurniawan
+- **Email**: wangsapdwi@example.com
 - **GitHub**: [Alwin-krn](https://github.com/Alwin-krn)
 
 ---
